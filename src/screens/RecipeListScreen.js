@@ -10,7 +10,7 @@ const RecipeListScreen = () => {
   return (
     <SafeAreaView style={{ flex: 1, marginHorizontal: 16, marginVertical:40}}>
       <TouchableOpacity onPress={() => navigation.navigate('NewRecipeScreen')}>
-        <Header headerText="Recipes" headerIcon="bell-o" />
+        <Header headerText="Recipes" headerIcon="heart-o" />
       </TouchableOpacity>
 
      

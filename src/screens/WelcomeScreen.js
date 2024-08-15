@@ -10,7 +10,7 @@ const WelcomeScreen = ({ navigation }) => {
 			/>
 
 			<Text style={{ color: "#109010", fontSize: 22, fontWeight: "bold" }}>
-				8 Premium meubels
+				8 Premium furniture
 			</Text>
 
 			<Text
@@ -22,7 +22,7 @@ const WelcomeScreen = ({ navigation }) => {
 					marginBottom: 40,
 				}}
 			>
-				Stijlvolle meubels voor jouw droominterieur!
+				Stylish furniture for your dream interior!
 			</Text>
 
 			<TouchableOpacity
